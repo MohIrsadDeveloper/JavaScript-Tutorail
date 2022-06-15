@@ -1,7 +1,7 @@
 // call apply and bind methods
 
-function personInfo() {
-    console.log(`${this.firstName} and age is ${this.age}, ${this.hobby} , ${this.favSpeech}`);
+function personInfo(hobby, favSpeech) {
+    console.log(`${this.firstName} and age is ${this.age}, ${hobby} , ${favSpeech}`);
 }
 
 const user1 = {
@@ -28,3 +28,11 @@ personInfo.call(user1, "game1", "speech1");
 personInfo.call(user2, "game2", "speech3");
 
 // using apply method
+personInfo.apply(user1, ["game1", 'speech1'])
+personInfo.apply(user2, ["game2", 'speech2'])
+
+// using bind method
+const userFirst = personInfo.bind(user1, "game1", "speech1")
+userFirst();
+const userSecond = personInfo.bind(user2, "game2", "speech2")
+userSecond()
