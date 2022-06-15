@@ -1,0 +1,6 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "editor.fontLigatures": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active"
+}
