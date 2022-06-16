@@ -1,5 +1,7 @@
 // static methods and properties
 
+// static method is used to direct call with Class not need to call with object
+
 class Person {
     constructor(firstName, lastName, age) {
         this.firstName = firstName;
@@ -32,7 +34,7 @@ class Person {
 }
 
 const person1 = new Person("harshit", "sharma", 8);
-// // console.log(person1.eat());
-// const info = Person.classInfo();
-// console.log(person1.desc);
-// console.log(info);
+console.log(person1.eat());
+const info = Person.classInfo();
+console.log(person1.desc);
+console.log(info);
