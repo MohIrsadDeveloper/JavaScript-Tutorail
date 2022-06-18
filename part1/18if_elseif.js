@@ -17,3 +17,8 @@ if (tempreture < 0) {
     console.log("too hot");
 }
 // In the above example if any top condition fulfilled then code will stop.
+
+/************/
+/* 
+It is cold outside
+*/

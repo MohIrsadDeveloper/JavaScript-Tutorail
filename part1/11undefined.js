@@ -30,3 +30,16 @@ let a = BigInt(123) // first syntax to write
 let b = 12n;  // second syntax to write
 console.log(a+b);
 console.log(myNumber+a); // throw error cannot mix BigInt and other type
+
+
+/************/
+/* 
+undefined
+string, abdul
+null
+object
+string, abdul
+123
+9007199254740991
+135n
+*/

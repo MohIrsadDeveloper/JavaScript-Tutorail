@@ -27,3 +27,13 @@ switch (day) {
         console.log("Invalid Day");
         break;
 }
+
+
+/************/
+/* 
+Tuesday
+Wednesday
+Thursday
+Friddy
+Saturday
+*/

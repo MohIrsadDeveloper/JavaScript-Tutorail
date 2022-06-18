@@ -12,3 +12,9 @@ if (age >= 5) {
 let num = 4;
 let result = num > 3 ? "Greater than 3" : "Less than or Equal to 3";
 console.log(result);
+
+/************/
+/* 
+Greater than 4
+Greater than 3
+*/

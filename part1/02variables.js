@@ -26,3 +26,11 @@ console.log(lastName);
 
 // In the above example var keyword not use but it is not good practice
 //  To solve this problem we use "use strict" key words
+
+/**********/
+/* 
+Abdul
+Asma
+Idrisi
+Abdul Idrisi 
+*/

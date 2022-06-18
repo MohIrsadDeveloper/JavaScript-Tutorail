@@ -1,6 +1,6 @@
 // static methods and properties
 
-// static method is used to direct call with Class not need to call with object
+// static method is used to direct call with Class, not need to call with object
 
 class Person {
     constructor(firstName, lastName, age) {

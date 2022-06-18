@@ -20,3 +20,9 @@ if (firstName[0] === "a" && age> 18) {
 if (firstName[0]=== 'a' && age > 18) {
     console.log("Name or age fulfilled.");
 }
+
+/************/
+/* 
+Name start with a age is above 18
+Name or age fulfilled.
+*/

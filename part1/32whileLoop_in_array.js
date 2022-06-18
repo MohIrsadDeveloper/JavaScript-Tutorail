@@ -5,3 +5,4 @@ while (i <= fruits.length -1) {
     console.log(fruits[i].toUpperCase());
     i++;
 };
+

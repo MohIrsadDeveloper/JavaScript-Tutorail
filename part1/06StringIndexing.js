@@ -21,3 +21,15 @@ console.log(firstName.length -1);
 
 // know the last character without index number
 console.log(firstName[firstName.length -1]);
+
+/**********/
+/* 
+A
+b
+d
+u
+l
+5
+4
+l
+*/

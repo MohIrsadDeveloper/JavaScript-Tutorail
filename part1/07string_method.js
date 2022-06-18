@@ -34,3 +34,9 @@ console.log(slice_firstName);
 // If we want till end then only give start index
 let slice_firstName2 = firstName.slice(4);
 console.log(slice_firstName2);
+
+/**********/
+/* 
+Abdu
+l idrisi
+*/

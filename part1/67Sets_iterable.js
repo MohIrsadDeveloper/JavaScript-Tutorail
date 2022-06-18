@@ -7,6 +7,7 @@
 
 const items = ['item1', 'item2', 'item3'];
 const numbers = new Set();
+console.log(numbers);
 numbers.add(1);
 numbers.add(2);
 numbers.add(3);

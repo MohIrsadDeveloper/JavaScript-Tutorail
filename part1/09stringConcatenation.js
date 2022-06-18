@@ -10,3 +10,11 @@ let str2 = "10";
 let newString = +str1 + +str2;
 console.log(newString);
 console.log(typeof newString);
+
+/************/
+
+/* 
+abdul idrisi
+27
+Number
+*/

@@ -47,3 +47,11 @@ if (num%2===0) {
 } else {
     console.log("Odd Number");
 }
+
+/************/
+/* 
+firstName is kind a empty
+-1
+You are elegible
+Odd Number
+*/
