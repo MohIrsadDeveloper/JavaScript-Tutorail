@@ -15,4 +15,4 @@
 // Uncaught SyntaxError: Identifier 'firstName' has already been declared (at 04let_keyword.js:12:5)
 
 
-// block scope vs function scope (covered later in this video)
+// block scope vs function scope (covered later in this video) refer : 50.js

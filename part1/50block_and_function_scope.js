@@ -2,7 +2,7 @@
 // block means which is inside { } bracket known as block.
 
 // let and const are block scope
-// At the time of let anad const are only accessable within block
+// At the time of let and const are only accessable within block
 {
     let firstName = "abdul";
     console.log(firstName);
