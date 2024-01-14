@@ -23,7 +23,7 @@ const user2 = {
 // user1.personInfo.call(user1, "game1", "speech1");
 // user1.personInfo.call(user2, "game2", "speech2");
 
-// using call  methodn
+// using call  method
 personInfo.call(user1, "game1", "speech1");
 personInfo.call(user2, "game2", "speech3");
 

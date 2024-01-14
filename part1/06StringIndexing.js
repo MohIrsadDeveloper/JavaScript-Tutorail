@@ -4,7 +4,7 @@ let firstName = "Abdul";
 // A  b  d  u  l
 // 0  1  2  3  4
 
-// Know the character usign in index value
+// Know the character using in index value
 console.log(firstName[0]);
 console.log(firstName[1]);
 console.log(firstName[2]);
@@ -33,3 +33,8 @@ l
 4
 l
 */
+
+
+// CharAt(); /* Index as a parameter*/
+console.log(firstName.charAt())
+console.log(firstName.charAt(2))

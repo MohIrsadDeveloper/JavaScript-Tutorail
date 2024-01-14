@@ -1,6 +1,6 @@
 // trim()
-// trim use to remove spaces from varible;
-// trim metod cannot effect original variable create new variable;
+// trim use to remove spaces from variable;
+// trim method cannot effect original variable create new variable;
 /* let firstName = "     abdul        ";
 console.log(firstName.length);  // 18
 
@@ -9,7 +9,7 @@ console.log(trim_firstName.length);  // 5
  */
 // toUpperCase()
 // use to convert all character in UpperCase;
-// this method cannot effect original variable create new variable;
+// this method cannot affect original variable create new variable;
 /* let firstName = "abdul";
 let toUpperCase_firstName = firstName.toUpperCase();
 console.log(firstName);
@@ -17,7 +17,7 @@ console.log(toUpperCase_firstName); */
 
 // toLowerCase()
 // use to convert all character in lowerCase;
-// toLowerCase method cannot effect original variable create new variable;
+// toLowerCase method cannot affect original variable create new variable;
 /* let firstName = "ABDUl";
 let toUpperCase_firstName = firstName.toLowerCase();
 console.log(firstName);
